@@ -48,8 +48,8 @@ Hi! I'm Thiago, a software developer from Brazil.
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoPv123&show_icons=true&theme=tokyonight" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPv123&layout=compact&theme=tokyonight&custom_title=Technologies" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoPv123&show_icons=true&theme=tokyonight" height="200" style="padding-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPv123&layout=compact&theme=tokyonight&custom_title=Technologies"height="200"/>
 </p>
 
 <br clear="both"/>
