@@ -78,9 +78,9 @@ Hi! I'm Thiago, a software developer from Brazil.
 ---
 
 ### 📜 Certificates
-- [Algorithms and Programming Logic – Complete Course (30.5h)](https://www.udemy.com/certificate/UC-c5454003-5f3a-4d9d-9feb-9721dfde69b2) – Udemy, Sep/2024  
-- [Complete C, C++ and OOP Course (27.5h)](https://www.udemy.com/certificate/UC-9d9dd873-676c-4edb-a529-917b2acdbd9d) – Udemy, Aug/2025  
-- [Java Complete – OOP + Projects (54.5h)](https://www.udemy.com/certificate/UC-7ad12052-a5f9-4330-8df7-f79b8782b266) – Udemy, Aug/2025
+- [Algorithms and Programming Logic – Complete Course (30.5h)](./Certificates/CursoLogicaProgramacao.pdf) – Udemy, Sep/2024  
+- [Complete C, C++ and OOP Course (27.5h)](./Certificates/CursoC&C++POO.pdf) – Udemy, Aug/2025  
+- [Java Complete – OOP + Projects (54.5h)](./Certificates/CursoJavaPOO.pdf) – Udemy, Aug/2025
 
 ---
 
