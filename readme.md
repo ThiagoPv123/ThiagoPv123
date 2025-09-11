@@ -5,8 +5,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F79D00&center=true&width=700&lines=Hello+there!+I'm+Thiago+Petenusso+Viana;Backend+%7C+Automation+%7C+Data+Analysis;Let's+build+something+great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F79D00&center=true&width=700&lines=Hello+there!+I'm+Thiago+Petenusso+Viana;Backend+Developer+%7C+Spring+Boot+%7C+Databases;Let's+build+something+great!" alt="Typing SVG" />
 </p>
+
 
 ---
 
