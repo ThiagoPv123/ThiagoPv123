@@ -18,9 +18,9 @@ Hi! I'm Thiago, a software developer from Brazil.
 - 📊 Interested in automation with **Python, Power BI, VBA**.  
 - 🚀 Always learning and improving my skills in software development.
 
+<br clear="both"/>
 
 ---
-
 ### 🛠️ Tools & Technologies 
 
 <p align="center">
@@ -64,17 +64,21 @@ Hi! I'm Thiago, a software developer from Brazil.
   - [Chess System Java](https://github.com/ThiagoPv123/chess-system-java)  
     CLI chess game using **Java OOP** – focus on board modeling, pieces, moves and exceptions.
 
+  - [AcessoDadosSpringDataJPA](https://github.com/ThiagoPv123/AcessoDadosSpringDataJPA)  
+  Playground for **Spring Data JPA** – repository methods, queries, pagination.  
+  📚 Developed as part of the *Spring Boot Expert: JPA, REST, JWT, OAuth2 with Docker and AWS* course.
+
   - [Workshop Spring Boot + MongoDB](https://github.com/ThiagoPv123/workshop-spring-boot-mongodb)  
     REST API with **Spring Boot & MongoDB**, using `MongoRepository`, DTOs and exception handling.
 
-  - [Workshop Spring Boot 3 + JPA](https://github.com/ThiagoPv123/workshop-springboot3-jpa)  
+  - [Workshop Spring Boot 2 + JPA](https://github.com/ThiagoPv123/workshop-springboot3-jpa)  
     REST API with **Spring Boot & JPA** – entities, repositories, pagination and validation.
 
-  - [AcessoDadosSpringDataJPA](https://github.com/ThiagoPv123/AcessoDadosSpringDataJPA)  
-    Playground for **Spring Data JPA** – repository methods, queries, pagination.
-
+  
   - [Demo DAO JDBC](https://github.com/ThiagoPv123/demo-dao-jdbc)  
     **JDBC DAO implementation** – manual CRUD with `PreparedStatement` and `db.properties`.
+
+<br clear="both"/>
 
 ---
 
@@ -83,9 +87,7 @@ Hi! I'm Thiago, a software developer from Brazil.
 - [Complete C, C++ and OOP Course (27.5h)](./Certificates/CursoC&C++POO.pdf) – Udemy, Aug/2025  
 - [Java Complete – OOP + Projects (54.5h)](./Certificates/CursoJavaPOO.pdf) – Udemy, Aug/2025
 
+<br clear="both"/>
+
 ---
-
-
----
-
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=120"/>
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200"/>
