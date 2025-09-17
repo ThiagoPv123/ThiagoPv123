@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F79D00&center=true&width=700&lines=Hello+there!+I'm+Thiago+Petenusso+Viana;Backend+Developer+%7C+Spring+Boot+%7C+Databases;Let's+build+something+great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F79D00&center=true&width=700&lines=Hello+there!+I'm+Thiago+Petenusso+Viana;Backend+Developer+%7C+Spring+Boot+%7C+Databases;" alt="Typing SVG" />
 </p>
 
 
@@ -49,8 +49,8 @@ Hi! I'm Thiago, a software developer from Brazil.
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoPv123&show_icons=true&theme=tokyonight" height="200" width= "330"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPv123&layout=compact&theme=tokyonight&custom_title=Technologies"height="200" width= "330"/>
+  <img src="https://github-readme-stats-smoky-ten-26.vercel.app/api?username=ThiagoPv123&show_icons=true&theme=tokyonight&cache_seconds=7200" height="200" width= "330"/>
+  <img src="https://github-readme-stats-smoky-ten-26.vercel.app/api/top-langs/?username=ThiagoPv123&layout=compact&theme=tokyonight&custom_title=Technologies&cache_seconds=7200"height="200" width= "330"/>
 </p>
 
 <br clear="both"/>
@@ -74,9 +74,10 @@ Hi! I'm Thiago, a software developer from Brazil.
   - [Workshop Spring Boot 2 + JPA](https://github.com/ThiagoPv123/workshop-springboot3-jpa)  
     REST API with **Spring Boot & JPA** – entities, repositories, pagination and validation.
 
-  
   - [Demo DAO JDBC](https://github.com/ThiagoPv123/demo-dao-jdbc)  
     **JDBC DAO implementation** – manual CRUD with `PreparedStatement` and `db.properties`.
+  - [Alura – AI Agent with Python](https://github.com/ThiagoPv123/Agentes-de-IA)  
+    AI agent project developed during **Alura’s Python course** – exploring **automation, APIs and prompt engineering** concepts.
 
 <br clear="both"/>
 
@@ -90,4 +91,4 @@ Hi! I'm Thiago, a software developer from Brazil.
 <br clear="both"/>
 
 ---
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200"/>
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=150"/>
