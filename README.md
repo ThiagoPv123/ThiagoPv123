@@ -46,14 +46,12 @@ Hi! I'm Thiago, a software developer from Brazil.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats-smoky-ten-26.vercel.app/api?username=ThiagoPv123&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=21600&v=10" height="200" width="400" />
-  <img src="https://github-readme-stats-smoky-ten-26.vercel.app/api/top-langs/?username=ThiagoPv123&layout=compact&theme=tokyonight&custom_title=Technologies&cache_seconds=21600&v=10" height="200" width="360"/>
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats-smoky-ten-26.vercel.app/api?username=ThiagoPv123&show_icons=true&theme=tokyonight&cache_seconds=7200" height="200" width= "330"/>
+  <img src="https://github-readme-stats-smoky-ten-26.vercel.app/api/top-langs/?username=ThiagoPv123&layout=compact&theme=tokyonight&custom_title=Technologies&cache_seconds=7200"height="200" width= "330"/>
+</p>
 
 <br clear="both"/>
 
