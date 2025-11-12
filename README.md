@@ -48,10 +48,23 @@ Hi! I'm Thiago, a software developer from Brazil.
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-smoky-ten-26.vercel.app/api?username=ThiagoPv123&show_icons=true&theme=tokyonight&cache_seconds=7200" height="200" width= "330"/>
-  <img src="https://github-readme-stats-smoky-ten-26.vercel.app/api/top-langs/?username=ThiagoPv123&layout=compact&theme=tokyonight&custom_title=Technologies&cache_seconds=7200"height="200" width= "330"/>
-</p>
+<div align="center" style="display:flex; justify-content:center; align-items:stretch; gap:12px; flex-wrap:wrap;">
+
+  <img
+    src="https://github-readme-stats-smoky-ten-26.vercel.app/api?username=ThiagoPv123&show_icons=true&theme=tokyonight&cache_seconds=7200"
+    alt="GitHub Stats"
+    style="width:390px; height:195px; object-fit:cover; border-radius:10px;"
+  />
+
+  <img
+    src="https://github-readme-stats-smoky-ten-26.vercel.app/api/top-langs/?username=ThiagoPv123&layout=compact&theme=tokyonight&custom_title=Technologies&cache_seconds=7200"
+    alt="Top Languages"
+    style="width:390px; height:195px; object-fit:cover; border-radius:10px;"
+  />
+
+</div>
+
+
 
 <br clear="both"/>
 
