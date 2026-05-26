@@ -1,109 +1,116 @@
-<!-- Banner topo com efeito de onda -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thiago%20Petenusso%20Viana&fontColor=ffffff&fontSize=30"/>
-
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F79D00&center=true&width=700&lines=Hello+there!+I'm+Thiago+Petenusso+Viana;Backend+Developer+%7C+Spring+Boot+%7C+Databases;" alt="Typing SVG" />
-</p>
-
-
----
-
-### 👨‍💻 About Me
-Hi! I'm Thiago, a software developer from Brazil.  
-- 🎓 Knowledge in **C, C++ and Java (OOP, projects, algorithms)**.  
-- 🔧 Building backend applications with **Spring Boot** (REST, JPA, validation, security).  
-- 📊 Interested in automation with **Python, Power BI, VBA**.  
-- 🚀 Always learning and improving my skills in software development.
-
-<br clear="both"/>
-
----
-### 🛠️ Tools & Technologies 
-
-<p align="center">
-  <!-- Primeira linha -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Segunda linha -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Terceira linha -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-### 📊 GitHub Activity
-
-<div align="center" style="display:flex; justify-content:center; align-items:stretch; gap:12px; flex-wrap:wrap;">
-
-  <img
-    src="https://github-readme-stats-smoky-ten-26.vercel.app/api?username=ThiagoPv123&show_icons=true&theme=tokyonight&cache_seconds=7200"
-    alt="GitHub Stats"
-    style="width:390px; height:195px; object-fit:cover; border-radius:10px;"
-  />
-
-  <img
-    src="https://github-readme-stats-smoky-ten-26.vercel.app/api/top-langs/?username=ThiagoPv123&layout=compact&theme=tokyonight&custom_title=Technologies&cache_seconds=7200"
-    alt="Top Languages"
-    style="width:390px; height:195px; object-fit:cover; border-radius:10px;"
-  />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,30:feca57,60:48dbfb,100:ff9ff3&height=220&section=header&text=Thiago%20Petenusso%20Viana&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=58&descSize=18&animation=fadeIn"/>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F79D00&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Thiago+%F0%9F%91%8B;Backend+Developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Java+%2B+Spring+Boot+enthusiast+%E2%98%95;Building+scalable+REST+APIs+%F0%9F%9A%80;Always+learning+%26+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
 
+<br/>
 
-<br clear="both"/>
-
-  
-
----
-
-### 🧪 Projects
-
-  - [Chess System Java](https://github.com/ThiagoPv123/chess-system-java)  
-    CLI chess game using **Java OOP** – focus on board modeling, pieces, moves and exceptions.
-
-  - [AcessoDadosSpringDataJPA](https://github.com/ThiagoPv123/AcessoDadosSpringDataJPA)  
-  Playground for **Spring Data JPA** – repository methods, queries, pagination.  
-  📚 Developed as part of the *Spring Boot Expert: JPA, REST, JWT, OAuth2 with Docker and AWS* course.
-
-  - [Workshop Spring Boot + MongoDB](https://github.com/ThiagoPv123/workshop-spring-boot-mongodb)  
-    REST API with **Spring Boot & MongoDB**, using `MongoRepository`, DTOs and exception handling.
-
-  - [Workshop Spring Boot 2 + JPA](https://github.com/ThiagoPv123/workshop-springboot3-jpa)  
-    REST API with **Spring Boot & JPA** – entities, repositories, pagination and validation.
-
-  - [Demo DAO JDBC](https://github.com/ThiagoPv123/demo-dao-jdbc)  
-    **JDBC DAO implementation** – manual CRUD with `PreparedStatement` and `db.properties`.
-  - [Alura – AI Agent with Python](https://github.com/ThiagoPv123/Agentes-de-IA)  
-    AI agent project developed during **Alura’s Python course** – exploring **automation, APIs and prompt engineering** concepts.
-
-<br clear="both"/>
+<div align="center">
+  <a href="mailto:thiagopetenusso45@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thiagopv123/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ThiagoPv123&style=for-the-badge&color=ff6b6b&label=PROFILE+VIEWS"/>
+</div>
 
 ---
 
-### 📜 Certificates
-- [Algorithms and Programming Logic – Complete Course (30.5h)](./Certificates/CursoLogicaProgramacao.pdf) – Udemy, Sep/2024  
-- [Complete C, C++ and OOP Course (27.5h)](./Certificates/CursoC&C++POO.pdf) – Udemy, Aug/2025  
-- [Java Complete – OOP + Projects (54.5h)](./Certificates/CursoJavaPOO.pdf) – Udemy, Aug/2025  
-- [AI Agents with Python (Alura + Google Gemini)](./Certificates/imersao-agentes-de-ia.png) – Alura, Sep/2025  
+## 👨‍💻 About Me
 
+```java
+public class Thiago {
 
-<br clear="both"/>
+    String name     = "Thiago Petenusso Viana";
+    String role     = "Backend Developer";
+    String location = "Brazil 🇧🇷";
+
+    String[] stack  = { "Java", "Spring Boot", "PostgreSQL", "Docker" };
+    String   focus  = "Scalable REST APIs & Clean Architecture";
+    String   extra  = "Python · Power BI · VBA · AI Agents";
+
+    boolean  openToWork = true;
+}
+```
 
 ---
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=150"/>
+
+## 🛠️ Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp&perline=5"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git&perline=5"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux&perline=5"/>
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThiagoPv123&theme=radical&no-frame=true&column=6&margin-w=8" alt="Trophies"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-smoky-ten-26.vercel.app/api?username=ThiagoPv123&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=7200"/>
+  <img height="180em" src="https://github-readme-stats-smoky-ten-26.vercel.app/api/top-langs/?username=ThiagoPv123&layout=compact&theme=radical&langs_count=8&cache_seconds=7200"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoPv123&theme=radical&hide_border=true" alt="Streak"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoPv123&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🚀 Projects
+
+| Projeto | Tecnologias | Descrição |
+|---|---|---|
+| [♟️ Chess System Java](https://github.com/ThiagoPv123/chess-system-java) | `Java` `OOP` | Xadrez em CLI com lógica completa de peças e movimentos |
+| [🌱 Spring Data JPA](https://github.com/ThiagoPv123/AcessoDadosSpringDataJPA) | `Spring Boot` `JPA` | Métodos de repositório, queries e paginação |
+| [🍃 Spring + MongoDB](https://github.com/ThiagoPv123/workshop-spring-boot-mongodb) | `Spring Boot` `MongoDB` | API REST com DTOs e tratamento de exceções |
+| [🔗 Spring Boot + JPA](https://github.com/ThiagoPv123/workshop-springboot3-jpa) | `Spring Boot` `JPA` | Entidades, repositórios, paginação e validação |
+| [🗃️ Demo DAO JDBC](https://github.com/ThiagoPv123/demo-dao-jdbc) | `Java` `JDBC` | CRUD manual com PreparedStatement |
+| [🤖 AI Agent Python](https://github.com/ThiagoPv123/Agentes-de-IA) | `Python` `Gemini` | Agente de IA com automação e prompt engineering |
+
+---
+
+## 📜 Certificates
+
+<details>
+<summary><b>🏆 Ver certificações</b></summary>
+
+<br/>
+
+| Certificado | Carga | Plataforma | Ano |
+|---|---|---|---|
+| [Algoritmos & Lógica de Programação](./Certificates/CursoLogicaProgramacao.pdf) | 30.5h | Udemy | 2024 |
+| [C, C++ Completo & POO](./Certificates/CursoC&C++POO.pdf) | 27.5h | Udemy | 2025 |
+| [Java Completo – POO + Projetos](./Certificates/CursoJavaPOO.pdf) | 54.5h | Udemy | 2025 |
+| [Agentes de IA com Python](./Certificates/imersao-agentes-de-ia.png) | — | Alura | 2025 |
+
+</details>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ff9ff3,30:48dbfb,60:feca57,100:ff6b6b&height=150"/>
+</div>
