@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,30:feca57,60:48dbfb,100:ff9ff3&height=220&section=header&text=Thiago%20Petenusso%20Viana&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=58&descSize=18&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e21,30:0d2137,60:1565c0,100:00d4ff&height=220&section=header&text=Thiago%20Petenusso%20Viana&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=58&descSize=18&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F79D00&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Thiago+%F0%9F%91%8B;Backend+Developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Java+%2B+Spring+Boot+enthusiast+%E2%98%95;Building+scalable+REST+APIs+%F0%9F%9A%80;Always+learning+%26+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Thiago+%F0%9F%91%8B;Backend+Developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Java+%2B+Spring+Boot+enthusiast+%E2%98%95;Building+scalable+REST+APIs+%F0%9F%9A%80;Always+learning+%26+growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/thiagopv123/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ThiagoPv123&style=for-the-badge&color=ff6b6b&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=ThiagoPv123&style=for-the-badge&color=1565c0&label=PROFILE+VIEWS"/>
 </div>
 
 ---
@@ -62,12 +62,12 @@ public class Thiago {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-smoky-ten-26.vercel.app/api?username=ThiagoPv123&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=7200"/>
-  <img height="180em" src="https://github-readme-stats-smoky-ten-26.vercel.app/api/top-langs/?username=ThiagoPv123&layout=compact&theme=radical&langs_count=8&cache_seconds=7200"/>
+  <img height="180em" src="https://github-readme-stats-smoky-ten-26.vercel.app/api?username=ThiagoPv123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200"/>
+  <img height="180em" src="https://github-readme-stats-smoky-ten-26.vercel.app/api/top-langs/?username=ThiagoPv123&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=7200"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoPv123&theme=radical&hide_border=true" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoPv123&theme=tokyonight&hide_border=true" alt="Streak"/>
 </div>
 
 ---
@@ -112,5 +112,5 @@ public class Thiago {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ff9ff3,30:48dbfb,60:feca57,100:ff6b6b&height=150"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00d4ff,30:1565c0,60:0d2137,100:0a0e21&height=150"/>
 </div>
