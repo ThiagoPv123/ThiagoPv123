@@ -51,31 +51,11 @@ public class Thiago {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThiagoPv123&theme=radical&no-frame=true&column=6&margin-w=8" alt="Trophies"/>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-smoky-ten-26.vercel.app/api?username=ThiagoPv123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200"/>
   <img height="180em" src="https://github-readme-stats-smoky-ten-26.vercel.app/api/top-langs/?username=ThiagoPv123&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=7200"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoPv123&theme=tokyonight&hide_border=true" alt="Streak"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoPv123&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
 ---
